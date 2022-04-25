@@ -8,4 +8,4 @@ First GitHub tutorial
 ### 3. Autodesk Revit
 ### 4. Inkscape
 ## Coding Languages
-### 1. Python :joy:
+### 1. Python :smile:
